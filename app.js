@@ -32,6 +32,7 @@ function multiply(a, b) {
   let answer=a*b;
   return[answer,`The product of ${a} and ${b} is ${answer}.`]
 
+  
 }
 
 // Here is the test for multiply(); uncomment it to run it
